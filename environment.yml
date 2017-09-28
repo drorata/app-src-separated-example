@@ -1,0 +1,6 @@
+name: apps-example
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - click
